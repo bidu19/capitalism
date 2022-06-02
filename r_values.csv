@@ -1,18 +1,18 @@
-,title,R-value,R2-value,p-value
-,SVP Schweizerische Volkspartei,0.060,0.004,0.43925
-,SP Sozialdemokratische Partei der Schweiz,-0.051,0.003,0.52958
-,FDP FDP.Die Liberalen,0.070,0.005,0.42285
-,CVP Christlichdemokratische Volkspartei,-0.034,0.001,0.80696
-,GPS und GP Grüne Partei der Schweiz,-0.050,0.003,0.70425
-,EVP Evangelische Volkspartei,0.400,0.160,0.19790
-,Lega dei Ticinesi,0.246,0.061,0.39587
-,CSP Christlich-soziale Partei,1.000,1.000,0.00000
-,GLP Grünliberale Partei,0.284,0.081,0.05583
-,BDP Bürgerlich-Demokratische Partei,0.768,0.590,0.00945
-,Alternative Linke / Alternative Liste / Partei der Arbeit / solidaritéS,0.187,0.035,0.60526
-,EDU Eidgenössisch-Demokratische Union,0.000,0.000,1.00000
-,Piratenpartei,0.000,0.000,nan
-,eindeutig andere Partei,0.000,0.000,nan
-,keine Partei,0.097,0.009,0.25141
-,None,-0.114,0.013,0.11309
-,Die Mitte,0.243,0.059,0.18100
+,title,n,R-value,R2-value,p-value
+,SVP Schweizerische Volkspartei,169,0.060,0.004,0.43925
+,SP Sozialdemokratische Partei der Schweiz,154,-0.051,0.003,0.52958
+,FDP FDP.Die Liberalen,134,0.070,0.005,0.42285
+,CVP Christlichdemokratische Volkspartei,54,-0.034,0.001,0.80696
+,GPS und GP Grüne Partei der Schweiz,60,-0.050,0.003,0.70425
+,EVP Evangelische Volkspartei,12,0.400,0.160,0.19790
+,Lega dei Ticinesi,14,0.246,0.061,0.39587
+,CSP Christlich-soziale Partei,3,1.000,1.000,0.00000
+,GLP Grünliberale Partei,46,0.284,0.081,0.05583
+,BDP Bürgerlich-Demokratische Partei,10,0.768,0.590,0.00945
+,Alternative Linke / Alternative Liste / Partei der Arbeit / solidaritéS,10,0.187,0.035,0.60526
+,EDU Eidgenössisch-Demokratische Union,7,0.000,0.000,1.00000
+,Piratenpartei,1,0.000,0.000,nan
+,eindeutig andere Partei,1,0.000,0.000,nan
+,keine Partei,141,0.097,0.009,0.25141
+,None,194,-0.114,0.013,0.11309
+,Die Mitte,32,0.243,0.059,0.18100
